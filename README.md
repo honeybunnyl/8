@@ -22,3 +22,5 @@
 
 12.Ссылку на github проект прикрепила в этом задании.
 
+![image](https://user-images.githubusercontent.com/107184646/211248241-f5722c12-b7e4-4d80-81b7-307278ac668d.png)
+![task1](https://user-images.githubusercontent.com/107184646/211248378-b484e01b-9420-4962-ad2b-767ae0e03f71.png)
